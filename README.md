@@ -6,7 +6,7 @@
 
  <br /><br />
 
-<h1 align="center">Hi 👋, I'm Shahinur Alam Bhuiyan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" ></h1>
+<h1 align="center">Hi 👋, I'm Asiqul Hossain <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" ></h1>
 
 <p align="center" style="text-align: justify;">Software Engineer , passionate about crafting elegant solutions through clean and efficient code. Dedicated to turning ideas into reality with a blend of technical expertise and a creative touch. Join me on this coding journey! 🚀</p>
 
@@ -21,7 +21,7 @@
  <a href="https://medium.com/@shahinur-alam-bhuiyan01" target="blank">
   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="shahinur-alam-bhuiyan01" />
  </a>
- <a href="https://www.facebook.com/shahin19sep/" target="_blank">
+ <a href="(https://www.facebook.com/si.am.chowdhury.193007/)" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-0866FF?&style=for-the-badge&logo=facebook&logoColor=white" alt="logo"  />
   </a> 
 </p>
@@ -140,11 +140,11 @@
  <img width="500px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahinurAlamBhuiyan?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
 </p>
 <p align="center">
-  <a href="https://github.com/ShahinurAlamBhuiyan">
+  <a href="https://github.com/AsiqulHossain/AsiqulHossain">
     <img align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinurAlamBhuiyan&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="GitHub Contribution"/>
   </a>
-  <a href="https://github.com/ShahinurAlamBhuiyan">
-    <img align="center"  height="190px"src="https://github-readme-streak-stats.herokuapp.com?user=ShahinurAlamBhuiyan&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Contribution"/>
+  <a href="https://github.com/AsiqulHossain/AsiqulHossain">
+    <img align="center"  height="190px"src="https://github-readme-streak-stats.herokuapp.com?user=Asiqul Hossain&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Contribution"/>
   </a>
 </p>
 
@@ -174,5 +174,5 @@
 [jsplaylist]: https://shahinuralambhuiyan.vercel.app/
 [cssplaylist]: https://shahinuralambhuiyan.vercel.app/
 [reactplaylist]: https://shahinuralambhuiyan.vercel.app/
-[Facebook]: https://www.facebook.com/shahin19sep/
+[Facebook]: https://www.facebook.com/si.am.chowdhury.193007/
 [Medium]: https://medium.com/@shahinur-alam-bhuiyan01/

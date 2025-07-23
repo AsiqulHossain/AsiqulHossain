@@ -21,7 +21,7 @@
  <a href=">
   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="asiqul-hossain" />
  </a>
- <a href="(https://www.facebook.com/si.am.chowdhury.193007/)" target="_blank">
+ <a href="https://www.facebook.com/si.am.chowdhury.193007/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-0866FF?&style=for-the-badge&logo=facebook&logoColor=white" alt="logo"  />
   </a> 
 </p>

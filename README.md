@@ -1,7 +1,8 @@
 
  
- <a target="_blank" href="https://www.linkedin.com/in/shahinur-alam-bhuiyan/">
- <img src="https://github.com/ShahinurAlamBhuiyan/ShahinurAlamBhuiyan/blob/main/shahin.gif" height="auto"  style="border-radius:1%"></a><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+ <!-- <a target="_blank" href="https://www.linkedin.com/in/asiqul-hossain-57b8962b0/"> -->
+ <!-- <img src="https://github.com/ShahinurAlamBhuiyan/ShahinurAlamBhuiyan/blob/main/shahin.gif" height="auto"  style="border-radius:1%"></a><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
+ <a href='https://www.linkedin.com/in/asiqul-hossain-57b8962b0/'><img src='/self.png' height="auto"  style="border-radius:1%"> </a>
 
  <br /><br />
 
@@ -14,7 +15,7 @@
  <a href="https://shahinuralambhuiyan.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="shahinbhuiyan" />
  </a>
- <a href="https://www.linkedin.com/in/shahinur-alam-bhuiyan/" target="_blank">
+ <a href="https://www.linkedin.com/in/asiqul-hossain-57b8962b0/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahinur-alam-bhuiyan"/>
  </a>
  <a href="https://medium.com/@shahinur-alam-bhuiyan01" target="blank">
@@ -168,7 +169,7 @@
 
 [programming]: https://www.programming-hero.com/
 [website]: https://shahinuralambhuiyan.vercel.app/
-[linkedin]: https://www.linkedin.com/in/shahinur-alam-bhuiyan/
+[linkedin]: https://www.linkedin.com/in/asiqul-hossain-57b8962b0/
 [webdevplaylist]: https://shahinuralambhuiyan.vercel.app/
 [jsplaylist]: https://shahinuralambhuiyan.vercel.app/
 [cssplaylist]: https://shahinuralambhuiyan.vercel.app/

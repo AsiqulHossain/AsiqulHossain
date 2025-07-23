@@ -1,7 +1,7 @@
 
  
  <!-- <a target="_blank" href="https://www.linkedin.com/in/asiqul-hossain-57b8962b0/"> -->
- <!-- <img src="https://github.com/ShahinurAlamBhuiyan/ShahinurAlamBhuiyan/blob/main/shahin.gif" height="auto"  style="border-radius:1%"></a><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
+ <!-- <img src="https://github.com/AsiqulHossain/AsiqulHossain/blob/main/shahin.gif" height="auto"  style="border-radius:1%"></a><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
  <a href='https://www.linkedin.com/in/asiqul-hossain-57b8962b0/'><img src='/self.png' height="auto"  style="border-radius:1%"> </a>
 
  <br /><br />
@@ -12,14 +12,14 @@
 
 <br />
 <p align="center">
- <a href="https://shahinuralambhuiyan.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="shahinbhuiyan" />
+ <a href="" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="asiqul-hossain" />
  </a>
  <a href="https://www.linkedin.com/in/asiqul-hossain-57b8962b0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahinur-alam-bhuiyan"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="asiqul-hossain"/>
  </a>
- <a href="https://medium.com/@shahinur-alam-bhuiyan01" target="blank">
-  <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="shahinur-alam-bhuiyan01" />
+ <a href=">
+  <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="asiqul-hossain" />
  </a>
  <a href="(https://www.facebook.com/si.am.chowdhury.193007/)" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-0866FF?&style=for-the-badge&logo=facebook&logoColor=white" alt="logo"  />
@@ -137,11 +137,11 @@
 <br />
 
 <p align="center">
- <img width="500px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/ShahinurAlamBhuiyan?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
+ <img width="500px"  src="https://awesome-github-stats.azurewebsites.net/user-stats/AsiqulHossain?cardType=github&theme=dark&Icon=FFFFFF&preferLogin=false" alt="GitHub Contribution"/>
 </p>
 <p align="center">
   <a href="https://github.com/AsiqulHossain/AsiqulHossain">
-    <img align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinurAlamBhuiyan&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="GitHub Contribution"/>
+    <img align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiqulHossain&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="GitHub Contribution"/>
   </a>
   <a href="https://github.com/AsiqulHossain/AsiqulHossain">
     <img align="center"  height="190px"src="https://github-readme-streak-stats.herokuapp.com?user=Asiqul Hossain&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Contribution"/>
@@ -155,11 +155,11 @@
 
 
 <p align="center">
-<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahinurAlamBhuiyan&theme=dark&Icon=FFFFFF"  alt="GitHub Contribution"/>
+<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsiqulHossain&theme=dark&Icon=FFFFFF"  alt="GitHub Contribution"/>
 </p>
 
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahinurAlamBhuiyan&theme=high-contrast" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AsiqulHossain&theme=high-contrast" />
 
 
 
@@ -168,11 +168,11 @@
 
 
 [programming]: https://www.programming-hero.com/
-[website]: https://shahinuralambhuiyan.vercel.app/
+[website]: https://AsiqulHossain.vercel.app/
 [linkedin]: https://www.linkedin.com/in/asiqul-hossain-57b8962b0/
-[webdevplaylist]: https://shahinuralambhuiyan.vercel.app/
-[jsplaylist]: https://shahinuralambhuiyan.vercel.app/
-[cssplaylist]: https://shahinuralambhuiyan.vercel.app/
-[reactplaylist]: https://shahinuralambhuiyan.vercel.app/
+[webdevplaylist]: https://AsiqulHossain.vercel.app/
+[jsplaylist]: https://AsiqulHossain.vercel.app/
+[cssplaylist]: https://AsiqulHossain.vercel.app/
+[reactplaylist]: https://AsiqulHossain.vercel.app/
 [Facebook]: https://www.facebook.com/si.am.chowdhury.193007/
 [Medium]: https://medium.com/@shahinur-alam-bhuiyan01/
